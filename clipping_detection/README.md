@@ -1,7 +1,5 @@
 # Clipping Detection
 
-## About the problem
-
 ## Abstract
 In this project I trained an ML model to classify clipping in energy generation curves of solar plants. For this, I was given a simulated dataset with ..... curves.
 
